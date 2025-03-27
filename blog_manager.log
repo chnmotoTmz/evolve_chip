@@ -1,0 +1,252 @@
+2025-03-27 08:06:46.940 | WARNING  | __main__:__init__:28 - AIチップが見つかりません
+2025-03-27 08:06:46.967 | INFO     | blog_storage:list_blogs:67 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:06:46.967 | INFO     | blog_storage:load_blog:49 - ブログ記事を読み込み: test_blog
+2025-03-27 08:06:46.970 | INFO     | __main__:load_blog:86 - ブログを読み込み: test_blog
+2025-03-27 08:06:46.971 | INFO     | __main__:load_blogs:71 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 08:06:49.830 | INFO     | blog_storage:save_blog:33 - ブログ記事を保存: test_blog
+2025-03-27 08:06:49.832 | INFO     | __main__:save_blog:101 - ブログを保存: test_blog
+2025-03-27 08:07:02.790 | INFO     | blog_storage:list_blogs:67 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:07:02.792 | INFO     | blog_storage:save_blog:33 - ブログ記事を保存: 1
+2025-03-27 08:07:02.793 | INFO     | blog_storage:list_blogs:67 - ブログ一覧を取得: ['1', 'test_blog']
+2025-03-27 08:07:02.801 | INFO     | blog_storage:load_blog:49 - ブログ記事を読み込み: 1
+2025-03-27 08:07:02.803 | INFO     | __main__:load_blog:86 - ブログを読み込み: 1
+2025-03-27 08:07:02.803 | INFO     | __main__:load_blogs:71 - ブログ一覧を読み込み: ['1', 'test_blog']
+2025-03-27 08:07:02.804 | INFO     | blog_storage:load_blog:49 - ブログ記事を読み込み: 1
+2025-03-27 08:07:02.804 | INFO     | __main__:load_blog:86 - ブログを読み込み: 1
+2025-03-27 08:07:02.827 | INFO     | __main__:create:152 - 新規ブログを作成: 1
+2025-03-27 08:07:12.299 | INFO     | blog_storage:save_blog:33 - ブログ記事を保存: 1
+2025-03-27 08:07:12.299 | INFO     | __main__:save_blog:101 - ブログを保存: 1
+2025-03-27 08:07:20.939 | INFO     | blog_storage:load_blog:49 - ブログ記事を読み込み: test_blog
+2025-03-27 08:07:20.941 | INFO     | __main__:load_blog:86 - ブログを読み込み: test_blog
+2025-03-27 08:07:24.522 | INFO     | blog_storage:save_blog:33 - ブログ記事を保存: test_blog
+2025-03-27 08:07:24.524 | INFO     | __main__:save_blog:101 - ブログを保存: test_blog
+2025-03-27 08:10:52.574 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 08:10:52.577 | INFO     | evolve_chip:__init__:17 - AIチップを初期化しました
+2025-03-27 08:10:52.578 | INFO     | __main__:__init__:26 - AIチップを初期化しました
+2025-03-27 08:10:52.602 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: []
+2025-03-27 08:10:52.603 | INFO     | __main__:load_blogs:71 - ブログ一覧を読み込み: []
+2025-03-27 08:11:06.475 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 08:11:06.476 | INFO     | __main__:save_blog:101 - ブログを保存: test_blog
+2025-03-27 08:11:10.418 | INFO     | __main__:evolve_blog:119 - ブログの進化を開始
+2025-03-27 08:11:10.419 | INFO     | evolve_chip:start_evolving:26 - 進化プロセスを開始しました
+2025-03-27 08:11:13.420 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:11:13.420 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 08:11:13.420 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 08:11:13.422 | INFO     | evolve_chip:record_evolution:101 - 進化履歴を記録: {"timestamp": "2025-03-27T08:11:13.422451", "blog_id": "test_blog", "original_length": 1, "evolved_length": 1, "evolution_suggestion": "こんにちは、世界！今日は素晴らしい一日でした。新しい発見がありました。", "metadata": {"title": "", "original_paragraphs": 0, "evolved_paragraphs": 0}}
+2025-03-27 08:11:13.422 | INFO     | evolve_chip:evolve:55 - ブログを進化: test_blog
+2025-03-27 08:11:13.423 | INFO     | evolve_chip:stop_evolving:136 - 進化プロセスを停止しました
+2025-03-27 08:11:13.423 | INFO     | evolve_chip:cleanup:117 - AIチップを削除しました
+2025-03-27 08:14:38.406 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 08:14:38.411 | INFO     | evolve_chip:__init__:18 - AIチップを初期化しました
+2025-03-27 08:14:38.411 | INFO     | __main__:__init__:26 - AIチップを初期化しました
+2025-03-27 08:14:38.436 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:14:38.437 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 08:14:38.437 | INFO     | __main__:load_blog:86 - ブログを読み込み: test_blog
+2025-03-27 08:14:38.439 | INFO     | __main__:load_blogs:71 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 08:14:41.283 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 08:14:41.283 | INFO     | __main__:save_blog:101 - ブログを保存: test_blog
+2025-03-27 08:14:43.644 | INFO     | __main__:evolve_blog:119 - ブログの進化を開始
+2025-03-27 08:14:43.645 | INFO     | evolve_chip:start_evolving:27 - 進化プロセスを開始しました
+2025-03-27 08:14:46.646 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:14:46.647 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 08:14:46.647 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 08:14:46.648 | INFO     | evolve_chip:record_evolution:106 - 進化履歴を記録: {"timestamp": "2025-03-27T08:14:46.648575", "blog_id": "test_blog", "original_length": 1, "evolved_length": 1, "evolution_suggestion": "こんにちは、世界！今日は素晴らしい一日でした。新しい発見がありました。", "metadata": {"title": "", "original_paragraphs": 0, "evolved_paragraphs": 0}}
+2025-03-27 08:14:46.648 | INFO     | evolve_chip:evolve:56 - ブログを進化: test_blog
+2025-03-27 08:15:36.183 | INFO     | evolve_chip:stop_evolving:141 - 進化プロセスを停止しました
+2025-03-27 08:15:53.419 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 08:15:53.424 | INFO     | evolve_chip:__init__:19 - AIチップを初期化しました
+2025-03-27 08:15:53.424 | INFO     | __main__:__init__:26 - AIチップを初期化しました
+2025-03-27 08:15:53.449 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:15:53.451 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 08:15:53.451 | INFO     | __main__:load_blog:112 - ブログを読み込み: test_blog
+2025-03-27 08:15:53.451 | INFO     | __main__:load_blogs:97 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 08:15:56.112 | INFO     | __main__:evolve_blog:145 - ブログの進化を開始
+2025-03-27 08:15:56.113 | INFO     | evolve_chip:start_evolving:30 - 進化プロセスを開始しました
+2025-03-27 08:15:59.116 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 08:15:59.116 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 08:15:59.117 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 08:15:59.117 | INFO     | evolve_chip:record_evolution:141 - 進化履歴を記録: {"timestamp": "2025-03-27T08:15:59.117908", "blog_id": "test_blog", "original_length": 1, "evolved_length": 1, "evolution_suggestion": "こんにちは、世界！今日は素晴らしい一日でした。新しい発見がありました。", "metadata": {"title": "", "original_paragraphs": 0, "evolved_paragraphs": 0}}
+2025-03-27 08:15:59.118 | INFO     | evolve_chip:evolve:88 - ブログを進化: test_blog
+2025-03-27 08:15:59.120 | INFO     | evolve_chip:save_evolution_history:149 - 進化履歴を保存しました
+2025-03-27 08:15:59.178 | INFO     | evolve_chip:check_queue:46 - ブログ test_blog のGUIを更新しました
+2025-03-27 08:15:59.178 | INFO     | evolve_chip:check_queue:49 - 進化プロセスが完了しました
+2025-03-27 09:20:12.880 | INFO     | __main__:add_blog:31 - ブログを追加: test_blog
+2025-03-27 09:20:13.268 | ERROR    | __main__:evolve_blog:70 - 進化プロセスでエラー: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-27 09:20:13.270 | INFO     | __main__:main:119 - テスト完了
+2025-03-27 09:21:19.632 | INFO     | __main__:add_blog:31 - ブログを追加: test_blog
+2025-03-27 09:21:19.918 | ERROR    | __main__:evolve_blog:70 - 進化プロセスでエラー: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-03-27 09:21:19.920 | INFO     | __main__:main:119 - テスト完了
+2025-03-27 09:21:45.730 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 09:21:45.735 | ERROR    | evolve_chip:__init__:26 - GEMINI_API_KEY環境変数が設定されていません
+2025-03-27 09:21:48.326 | WARNING  | __main__:__init__:30 - AIチップの初期化に失敗しました
+2025-03-27 09:21:48.344 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 09:21:48.344 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 09:21:48.347 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 09:21:48.348 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 09:22:14.088 | INFO     | evolve_chip:cleanup:212 - AIチップのクリーンアップが完了
+2025-03-27 09:22:17.715 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 09:22:17.984 | INFO     | evolve_chip:__init__:34 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 09:22:17.984 | ERROR    | evolve_chip:__init__:38 - gemini-proモデルが利用できません
+2025-03-27 09:22:20.311 | WARNING  | __main__:__init__:30 - AIチップの初期化に失敗しました
+2025-03-27 09:22:20.334 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 09:22:20.335 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 09:22:20.337 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 09:22:20.338 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 09:26:05.980 | INFO     | evolve_chip:cleanup:212 - AIチップのクリーンアップが完了
+2025-03-27 09:26:10.029 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 09:26:10.298 | INFO     | evolve_chip:__init__:34 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 09:26:10.300 | ERROR    | evolve_chip:__init__:38 - gemini-proモデルが利用できません
+2025-03-27 09:26:12.825 | WARNING  | __main__:__init__:30 - AIチップの初期化に失敗しました
+2025-03-27 09:26:12.842 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 09:26:12.843 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 09:26:12.846 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 09:26:12.846 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 09:26:16.659 | INFO     | evolve_chip:cleanup:212 - AIチップのクリーンアップが完了
+2025-03-27 09:27:00.113 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 09:27:00.381 | INFO     | evolve_chip:__init__:34 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 09:27:00.381 | ERROR    | evolve_chip:__init__:38 - gemini-proモデルが利用できません
+2025-03-27 09:27:02.370 | WARNING  | __main__:__init__:30 - AIチップの初期化に失敗しました
+2025-03-27 09:27:02.386 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 09:27:02.387 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 09:27:02.391 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 09:27:02.391 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 09:27:04.110 | INFO     | evolve_chip:cleanup:212 - AIチップのクリーンアップが完了
+2025-03-27 09:27:54.523 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 09:27:54.796 | INFO     | evolve_chip:__init__:34 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 09:27:54.796 | ERROR    | evolve_chip:__init__:38 - gemini-proモデルが利用できません
+2025-03-27 09:27:56.774 | WARNING  | __main__:__init__:30 - AIチップの初期化に失敗しました
+2025-03-27 09:27:56.790 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 09:27:56.791 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 09:27:56.793 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 09:27:56.793 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 09:27:58.501 | INFO     | evolve_chip:cleanup:212 - AIチップのクリーンアップが完了
+2025-03-27 10:08:32.784 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 10:08:33.083 | INFO     | evolve_chip:__init__:34 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 10:08:33.083 | ERROR    | evolve_chip:__init__:38 - gemini-1.5-pro-002モデルが利用できません
+2025-03-27 10:08:35.174 | WARNING  | __main__:__init__:30 - AIチップの初期化に失敗しました
+2025-03-27 10:08:35.187 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 10:08:35.188 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 10:08:35.194 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 10:08:35.194 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 10:09:22.896 | INFO     | evolve_chip:cleanup:212 - AIチップのクリーンアップが完了
+2025-03-27 10:09:26.672 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 10:09:26.927 | INFO     | evolve_chip:__init__:35 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 10:09:26.929 | INFO     | evolve_chip:__init__:57 - Gemini APIの初期化に成功: models/gemini-1.5-pro-002
+2025-03-27 10:09:26.929 | INFO     | evolve_chip:__init__:62 - AIチップを初期化しました
+2025-03-27 10:09:26.953 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 10:09:26.954 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 10:09:26.958 | INFO     | __main__:load_blog:120 - ブログを読み込み: test_blog
+2025-03-27 10:09:26.959 | INFO     | __main__:load_blogs:105 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 10:09:32.544 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 10:09:32.544 | INFO     | __main__:save_blog:135 - ブログを保存: test_blog
+2025-03-27 10:09:35.999 | INFO     | __main__:evolve_blog:153 - ブログの進化を開始
+2025-03-27 10:09:36.000 | INFO     | evolve_chip:_evolve_process:102 - Gemini APIにリクエストを送信
+2025-03-27 10:09:49.062 | INFO     | evolve_chip:_evolve_process:104 - Gemini APIからレスポンスを受信
+2025-03-27 10:09:49.064 | INFO     | evolve_chip:_update_content:123 - ブログ内容を更新しました
+2025-03-27 10:09:58.673 | INFO     | __main__:evolve_blog:153 - ブログの進化を開始
+2025-03-27 10:09:58.676 | INFO     | evolve_chip:_evolve_process:102 - Gemini APIにリクエストを送信
+2025-03-27 10:10:11.210 | INFO     | evolve_chip:_evolve_process:104 - Gemini APIからレスポンスを受信
+2025-03-27 10:10:11.212 | INFO     | evolve_chip:_update_content:123 - ブログ内容を更新しました
+2025-03-27 10:12:25.805 | INFO     | evolve_chip:cleanup:226 - AIチップのクリーンアップが完了
+2025-03-27 10:13:29.435 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 10:13:29.692 | INFO     | evolve_chip:__init__:44 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 10:13:29.693 | INFO     | evolve_chip:__init__:66 - Gemini APIの初期化に成功: models/gemini-1.5-pro-002
+2025-03-27 10:13:29.694 | INFO     | evolve_chip:__init__:71 - AIチップを初期化しました
+2025-03-27 10:13:29.755 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 10:13:29.755 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: test_blog
+2025-03-27 10:13:29.758 | INFO     | __main__:load_blog:169 - ブログを読み込み: test_blog
+2025-03-27 10:13:29.759 | INFO     | __main__:load_blogs:154 - ブログ一覧を読み込み: ['test_blog']
+2025-03-27 10:13:40.712 | INFO     | evolve_chip:set_evolution_direction:76 - 進化の方向性を更新: {"style": "formal", "tone": "professional", "focus": "content", "length": "medium", "target_audience": "business"}
+2025-03-27 10:13:40.712 | INFO     | __main__:evolve_blog:212 - ブログの進化を開始
+2025-03-27 10:13:40.713 | INFO     | evolve_chip:_evolve_process:122 - Gemini APIにリクエストを送信
+2025-03-27 10:13:52.041 | INFO     | evolve_chip:_evolve_process:124 - Gemini APIからレスポンスを受信
+2025-03-27 10:13:52.042 | INFO     | evolve_chip:_update_content:184 - ブログ内容を更新しました
+2025-03-27 10:13:56.638 | INFO     | evolve_chip:set_evolution_direction:76 - 進化の方向性を更新: {"style": "formal", "tone": "friendly", "focus": "engagement", "length": "short", "target_audience": "business"}
+2025-03-27 10:13:56.638 | INFO     | __main__:evolve_blog:212 - ブログの進化を開始
+2025-03-27 10:13:56.639 | INFO     | evolve_chip:_evolve_process:122 - Gemini APIにリクエストを送信
+2025-03-27 10:14:05.866 | INFO     | evolve_chip:_evolve_process:124 - Gemini APIからレスポンスを受信
+2025-03-27 10:14:05.868 | INFO     | evolve_chip:_update_content:184 - ブログ内容を更新しました
+2025-03-27 10:14:16.081 | INFO     | blog_storage:save_blog:24 - ブログを保存: test_blog
+2025-03-27 10:14:16.083 | INFO     | __main__:save_blog:184 - ブログを保存: test_blog
+2025-03-27 10:14:30.369 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['test_blog']
+2025-03-27 10:14:30.370 | INFO     | blog_storage:save_blog:24 - ブログを保存: climb
+2025-03-27 10:14:30.371 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['climb', 'test_blog']
+2025-03-27 10:14:30.379 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: climb
+2025-03-27 10:14:30.379 | INFO     | __main__:load_blog:169 - ブログを読み込み: climb
+2025-03-27 10:14:30.380 | INFO     | __main__:load_blogs:154 - ブログ一覧を読み込み: ['climb', 'test_blog']
+2025-03-27 10:14:30.381 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: climb
+2025-03-27 10:14:30.381 | INFO     | __main__:load_blog:169 - ブログを読み込み: climb
+2025-03-27 10:14:30.405 | INFO     | __main__:create:244 - 新規ブログを作成: climb
+2025-03-27 10:15:01.781 | INFO     | blog_storage:save_blog:24 - ブログを保存: climb
+2025-03-27 10:15:01.781 | INFO     | __main__:save_blog:184 - ブログを保存: climb
+2025-03-27 10:15:04.296 | INFO     | evolve_chip:set_evolution_direction:76 - 進化の方向性を更新: {"style": "formal", "tone": "friendly", "focus": "engagement", "length": "short", "target_audience": "business"}
+2025-03-27 10:15:04.296 | INFO     | __main__:evolve_blog:212 - ブログの進化を開始
+2025-03-27 10:15:04.297 | INFO     | evolve_chip:_evolve_process:122 - Gemini APIにリクエストを送信
+2025-03-27 10:15:11.782 | INFO     | evolve_chip:_evolve_process:124 - Gemini APIからレスポンスを受信
+2025-03-27 10:15:11.783 | INFO     | evolve_chip:_update_content:184 - ブログ内容を更新しました
+2025-03-27 10:15:43.843 | INFO     | evolve_chip:set_evolution_direction:76 - 進化の方向性を更新: {"style": "formal", "tone": "friendly", "focus": "engagement", "length": "long", "target_audience": "technical"}
+2025-03-27 10:15:43.843 | INFO     | __main__:evolve_blog:212 - ブログの進化を開始
+2025-03-27 10:15:43.844 | INFO     | evolve_chip:_evolve_process:122 - Gemini APIにリクエストを送信
+2025-03-27 10:15:59.832 | INFO     | evolve_chip:_evolve_process:124 - Gemini APIからレスポンスを受信
+2025-03-27 10:15:59.834 | INFO     | evolve_chip:_update_content:184 - ブログ内容を更新しました
+2025-03-27 10:18:52.898 | INFO     | evolve_chip:cleanup:287 - AIチップのクリーンアップが完了
+2025-03-27 10:18:57.155 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 10:18:57.437 | INFO     | evolve_chip:__init__:45 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 10:18:57.438 | INFO     | evolve_chip:__init__:67 - Gemini APIの初期化に成功: models/gemini-1.5-pro-002
+2025-03-27 10:18:57.438 | INFO     | evolve_chip:__init__:72 - AIチップを初期化しました
+2025-03-27 10:18:57.477 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['climb', 'test_blog']
+2025-03-27 10:18:57.478 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: climb
+2025-03-27 10:18:57.482 | INFO     | __main__:load_blog:132 - ブログを読み込み: climb
+2025-03-27 10:18:57.484 | INFO     | __main__:load_blogs:117 - ブログ一覧を読み込み: ['climb', 'test_blog']
+2025-03-27 10:19:17.774 | INFO     | blog_storage:save_blog:24 - ブログを保存: climb
+2025-03-27 10:19:17.774 | INFO     | __main__:save_blog:147 - ブログを保存: climb
+2025-03-27 10:19:30.042 | INFO     | evolve_chip:set_evolution_direction:77 - 進化の方向性を更新: {"style": "formal", "tone": "professional", "focus": "content", "length": "medium", "target_audience": "general", "comment": "まずはたたき台書いて"}
+2025-03-27 10:19:30.042 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: まずはたたき台書いて
+2025-03-27 10:19:30.045 | INFO     | evolve_chip:_evolve_process:123 - Gemini APIにリクエストを送信
+2025-03-27 10:19:44.600 | INFO     | evolve_chip:_evolve_process:125 - Gemini APIからレスポンスを受信
+2025-03-27 10:19:44.602 | INFO     | evolve_chip:_update_content:159 - ブログ内容を更新しました
+2025-03-27 10:20:46.238 | INFO     | evolve_chip:set_evolution_direction:77 - 進化の方向性を更新: {"style": "formal", "tone": "professional", "focus": "content", "length": "medium", "target_audience": "general", "comment": "ホンダ　フリード　先々週にバックして電柱に激突した"}
+2025-03-27 10:20:46.240 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: ホンダ　フリード　先々週にバックして電柱に激突した
+2025-03-27 10:20:46.240 | INFO     | evolve_chip:_evolve_process:123 - Gemini APIにリクエストを送信
+2025-03-27 10:20:59.027 | INFO     | evolve_chip:_evolve_process:125 - Gemini APIからレスポンスを受信
+2025-03-27 10:20:59.030 | INFO     | evolve_chip:_update_content:159 - ブログ内容を更新しました
+2025-03-27 10:21:38.293 | INFO     | evolve_chip:set_evolution_direction:77 - 進化の方向性を更新: {"style": "formal", "tone": "professional", "focus": "content", "length": "medium", "target_audience": "general", "comment": "嫁さんが二重事故を起こす"}
+2025-03-27 10:21:38.293 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: 嫁さんが二重事故を起こす
+2025-03-27 10:21:38.294 | INFO     | evolve_chip:_evolve_process:123 - Gemini APIにリクエストを送信
+2025-03-27 10:21:50.177 | INFO     | evolve_chip:_evolve_process:125 - Gemini APIからレスポンスを受信
+2025-03-27 10:21:50.178 | INFO     | evolve_chip:_update_content:159 - ブログ内容を更新しました
+2025-03-27 10:22:21.188 | INFO     | evolve_chip:set_evolution_direction:77 - 進化の方向性を更新: {"style": "formal", "tone": "professional", "focus": "content", "length": "medium", "target_audience": "general", "comment": "二倍にして"}
+2025-03-27 10:22:21.189 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: 二倍にして
+2025-03-27 10:22:21.192 | INFO     | evolve_chip:_evolve_process:123 - Gemini APIにリクエストを送信
+2025-03-27 10:22:40.095 | INFO     | evolve_chip:_evolve_process:125 - Gemini APIからレスポンスを受信
+2025-03-27 10:22:40.097 | INFO     | evolve_chip:_update_content:159 - ブログ内容を更新しました
+2025-03-27 10:23:08.771 | INFO     | evolve_chip:set_evolution_direction:77 - 進化の方向性を更新: {"style": "formal", "tone": "professional", "focus": "content", "length": "medium", "target_audience": "general", "comment": "黄砂の話題は別にして"}
+2025-03-27 10:23:08.771 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: 黄砂の話題は別にして
+2025-03-27 10:23:08.773 | INFO     | evolve_chip:_evolve_process:123 - Gemini APIにリクエストを送信
+2025-03-27 10:23:19.696 | INFO     | evolve_chip:_evolve_process:125 - Gemini APIからレスポンスを受信
+2025-03-27 10:23:19.698 | INFO     | evolve_chip:_update_content:159 - ブログ内容を更新しました
+2025-03-27 10:25:00.977 | INFO     | evolve_chip:cleanup:262 - AIチップのクリーンアップが完了
+2025-03-27 10:25:06.748 | INFO     | blog_storage:__init__:10 - ブログストレージを初期化しました
+2025-03-27 10:25:07.012 | INFO     | evolve_chip:__init__:40 - 利用可能なモデル: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002']
+2025-03-27 10:25:07.012 | INFO     | evolve_chip:__init__:62 - Gemini APIの初期化に成功: models/gemini-1.5-pro-002
+2025-03-27 10:25:07.013 | INFO     | evolve_chip:__init__:67 - AIチップを初期化しました
+2025-03-27 10:25:07.039 | INFO     | blog_storage:list_blogs:47 - ブログ一覧を取得: ['climb', 'test_blog']
+2025-03-27 10:25:07.039 | INFO     | blog_storage:load_blog:35 - ブログを読み込み: climb
+2025-03-27 10:25:07.045 | INFO     | __main__:load_blog:132 - ブログを読み込み: climb
+2025-03-27 10:25:07.045 | INFO     | __main__:load_blogs:117 - ブログ一覧を読み込み: ['climb', 'test_blog']
+2025-03-27 10:25:31.801 | INFO     | evolve_chip:set_evolution_direction:72 - 進化の方向性を更新: {"comment": "山にも行きたい"}
+2025-03-27 10:25:31.801 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: 山にも行きたい
+2025-03-27 10:25:31.802 | INFO     | evolve_chip:_evolve_process:118 - Gemini APIにリクエストを送信
+2025-03-27 10:25:39.365 | INFO     | evolve_chip:_evolve_process:120 - Gemini APIからレスポンスを受信
+2025-03-27 10:25:39.365 | INFO     | evolve_chip:_update_content:154 - ブログ内容を更新しました
+2025-03-27 10:26:16.940 | INFO     | evolve_chip:set_evolution_direction:72 - 進化の方向性を更新: {"comment": "今回の修理は　電柱に激突したテールランプと　スノータイヤ交換"}
+2025-03-27 10:26:16.940 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: 今回の修理は　電柱に激突したテールランプと　スノータイヤ交換
+2025-03-27 10:26:16.942 | INFO     | evolve_chip:_evolve_process:118 - Gemini APIにリクエストを送信
+2025-03-27 10:26:25.769 | INFO     | evolve_chip:_evolve_process:120 - Gemini APIからレスポンスを受信
+2025-03-27 10:26:25.770 | INFO     | evolve_chip:_update_content:154 - ブログ内容を更新しました
+2025-03-27 10:27:55.824 | INFO     | evolve_chip:set_evolution_direction:72 - 進化の方向性を更新: {"comment": "比叡山はきらい、今週は休み　来週は横浜で登山"}
+2025-03-27 10:27:55.824 | INFO     | __main__:evolve_blog:177 - ブログの進化を開始: 比叡山はきらい、今週は休み　来週は横浜で登山
+2025-03-27 10:27:55.825 | INFO     | evolve_chip:_evolve_process:118 - Gemini APIにリクエストを送信
+2025-03-27 10:28:04.633 | INFO     | evolve_chip:_evolve_process:120 - Gemini APIからレスポンスを受信
+2025-03-27 10:28:04.634 | INFO     | evolve_chip:_update_content:154 - ブログ内容を更新しました
+2025-03-27 10:28:24.537 | INFO     | evolve_chip:cleanup:257 - AIチップのクリーンアップが完了

@@ -1,0 +1,82 @@
+2025-03-27 07:47:16.469 | WARNING  | blog_storage:load_blog:38 - ブログ記事が見つかりません: test_blog
+2025-03-27 07:47:16.469 | ERROR    | __main__:rewrite_blog:60 - ブログ記事が見つかりません: test_blog
+2025-03-27 07:47:16.470 | ERROR    | __main__:main:125 - ブログ記事の書き換えに失敗しました
+2025-03-27 07:47:36.400 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: []
+2025-03-27 07:47:39.829 | WARNING  | blog_storage:load_blog:38 - ブログ記事が見つかりません: test_blog
+2025-03-27 07:47:39.831 | ERROR    | __main__:rewrite_blog:60 - ブログ記事が見つかりません: test_blog
+2025-03-27 07:47:39.833 | ERROR    | __main__:main:125 - ブログ記事の書き換えに失敗しました
+2025-03-27 07:47:59.023 | WARNING  | blog_storage:load_blog:38 - ブログ記事が見つかりません: test_blog
+2025-03-27 07:47:59.023 | ERROR    | __main__:rewrite_blog:60 - ブログ記事が見つかりません: test_blog
+2025-03-27 07:47:59.024 | ERROR    | __main__:main:125 - ブログ記事の書き換えに失敗しました
+2025-03-27 07:50:58.495 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: []
+2025-03-27 07:51:22.898 | INFO     | __main__:save_blog:24 - ブログ記事を保存: test_blog
+2025-03-27 07:51:22.906 | INFO     | __main__:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:51:22.906 | INFO     | __main__:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:51:30.721 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:51:30.722 | INFO     | blog_storage:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:51:30.724 | INFO     | __main__:load_blog:59 - ブログを読み込み: test_blog
+2025-03-27 07:51:39.135 | INFO     | blog_storage:save_blog:24 - ブログ記事を保存: test_blog
+2025-03-27 07:51:39.138 | INFO     | __main__:save_blog:69 - ブログを保存: test_blog
+2025-03-27 07:51:51.728 | INFO     | __main__:save_blog:24 - ブログ記事を保存: test_blog
+2025-03-27 07:51:51.730 | INFO     | __main__:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:51:51.730 | INFO     | __main__:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:55:21.908 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:55:21.910 | INFO     | blog_storage:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:55:21.911 | INFO     | __main__:load_blog:63 - ブログを読み込み: test_blog
+2025-03-27 07:55:21.915 | INFO     | evolve_chip:__init__:14 - AIチップを初期化しました
+2025-03-27 07:55:21.917 | INFO     | __main__:embed_chip:110 - AIチップを埋め込みました
+2025-03-27 07:55:25.294 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:25.298 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:27.282 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:27.285 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:28.779 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:28.779 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:29.478 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:29.479 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:29.995 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:29.996 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:30.375 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:30.376 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:31.832 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:31.834 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:33.047 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:33.049 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:33.519 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:33.519 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:34.342 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:34.342 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:35.634 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:35.636 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:39.111 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:55:39.113 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:55:52.460 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:55:52.461 | INFO     | blog_storage:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:55:52.465 | INFO     | __main__:load_blog:63 - ブログを読み込み: test_blog
+2025-03-27 07:55:52.468 | INFO     | evolve_chip:__init__:14 - AIチップを初期化しました
+2025-03-27 07:55:52.469 | INFO     | __main__:embed_chip:110 - AIチップを埋め込みました
+2025-03-27 07:55:58.828 | INFO     | evolve_chip:start_evolving:21 - 進化プロセスを開始しました
+2025-03-27 07:55:58.830 | INFO     | __main__:evolve_blog:101 - ブログの進化を開始
+2025-03-27 07:56:01.829 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:56:01.833 | INFO     | blog_storage:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:56:01.837 | INFO     | blog_storage:save_blog:24 - ブログ記事を保存: test_blog
+2025-03-27 07:56:01.840 | INFO     | evolve_chip:record_evolution:91 - 進化履歴を記録: {"timestamp": "2025-03-27T07:56:01.839924", "blog_id": "test_blog", "original_length": 3, "evolved_length": 3, "evolution_suggestion": "こんにちは、世界！今日は素晴らしい一日でした。新しい発見がありました。", "metadata": {"title": "# 私のブログ", "original_paragraphs": 2, "evolved_paragraphs": 2}}
+2025-03-27 07:56:01.842 | INFO     | evolve_chip:evolve:45 - ブログを進化: test_blog
+2025-03-27 07:56:01.848 | INFO     | evolve_chip:cleanup:103 - AIチップを削除しました
+2025-03-27 07:56:19.460 | INFO     | evolve_chip:start_evolving:21 - 進化プロセスを開始しました
+2025-03-27 07:56:19.462 | INFO     | __main__:evolve_blog:101 - ブログの進化を開始
+2025-03-27 07:56:22.461 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:56:22.515 | INFO     | blog_storage:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:56:22.520 | INFO     | blog_storage:save_blog:24 - ブログ記事を保存: test_blog
+2025-03-27 07:56:22.522 | INFO     | evolve_chip:record_evolution:91 - 進化履歴を記録: {"timestamp": "2025-03-27T07:56:22.522514", "blog_id": "test_blog", "original_length": 3, "evolved_length": 3, "evolution_suggestion": "こんにちは、世界！今日は素晴らしい一日でした。新しい発見がありました。", "metadata": {"title": "# 私のブログ", "original_paragraphs": 2, "evolved_paragraphs": 2}}
+2025-03-27 07:56:22.524 | INFO     | evolve_chip:evolve:45 - ブログを進化: test_blog
+2025-03-27 07:56:22.534 | ERROR    | evolve_chip:cleanup:105 - チップの削除に失敗: [WinError 2] 指定されたファイルが見つかりません。: 'C:\\Users\\motoc\\hello_world\\evolve_chip.py'
+2025-03-27 07:56:58.792 | INFO     | blog_storage:list_blogs:49 - ブログ一覧を取得: ['test_blog']
+2025-03-27 07:56:58.794 | INFO     | blog_storage:load_blog:35 - ブログ記事を読み込み: test_blog
+2025-03-27 07:56:58.798 | INFO     | __main__:load_blog:63 - ブログを読み込み: test_blog
+2025-03-27 07:56:58.800 | WARNING  | __main__:embed_chip:112 - AIチップなしで起動
+2025-03-27 07:57:03.325 | INFO     | evolve_chip:stop_evolving:112 - 進化プロセスを停止しました
+2025-03-27 07:57:03.325 | INFO     | __main__:cleanup:118 - AIチップを停止しました
+2025-03-27 07:58:52.747 | WARNING  | __main__:evolve_blog:103 - AIチップが利用できません
+2025-03-27 07:58:53.652 | WARNING  | __main__:evolve_blog:103 - AIチップが利用できません
+2025-03-27 07:58:54.021 | WARNING  | __main__:evolve_blog:103 - AIチップが利用できません
+2025-03-27 07:58:54.286 | WARNING  | __main__:evolve_blog:103 - AIチップが利用できません
