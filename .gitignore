@@ -20,33 +20,26 @@ wheels/
 .installed.cfg
 *.egg
 
-# 仮想環境
+# Virtual Environment
 venv/
-env/
 ENV/
-.env
-.venv
-env.bak/
-venv.bak/
+env/
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
-.DS_Store
 
-# プロジェクト固有
+# Project specific
 *.log
-blog_app.log
-evolution_history.json
 .env
-.env.local
-.env.*.local
+evolution_history.json
 
-# テスト
+# Test
 .coverage
 htmlcov/
+.pytest_cache/
 .tox/
 .nox/
 .coverage.*

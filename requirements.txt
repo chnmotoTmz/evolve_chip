@@ -1,4 +1,4 @@
-google-generativeai==0.3.2
+google-generativeai>=0.3.0
 python-dotenv==1.0.0
-loguru==0.7.2
+loguru>=0.7.0
 psutil==5.9.8 
